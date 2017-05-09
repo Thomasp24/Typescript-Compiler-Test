@@ -1,0 +1,22 @@
+{
+  "name": "typescript-compiler-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomasp24/Typescript-Compiler-Test.git"
+  },
+  "author": "Thomas Peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomasp24/Typescript-Compiler-Test/issues"
+  },
+  "homepage": "https://github.com/Thomasp24/Typescript-Compiler-Test#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
